@@ -4,9 +4,9 @@ My simple [ZSH](http://www.zsh.org/) configuration. 🤓
 
 ## Prerequisites
 
-- [Pure](https://github.com/sindresorhus/pure)
 - [Node Version Manager](https://github.com/nvm-sh/nvm)
-- [Autojump](https://github.com/wting/autojump) (Optional)
+- [Pure](https://github.com/sindresorhus/pure)
+- [Zoxide](https://github.com/ajeetdsouza/zoxide)
 
 ## Installation
 
@@ -18,4 +18,5 @@ My simple [ZSH](http://www.zsh.org/) configuration. 🤓
 
 ## Resources
 
+- [macOS Terminal Theme: Snazzy](https://github.com/lysyi3m/macos-terminal-themes?tab=readme-ov-file#snazzy-download)
 - [Moving to ZSH](https://scriptingosx.com/2019/06/moving-to-zsh/)
