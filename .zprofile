@@ -1,9 +1,14 @@
 # Path Initialization
 # @see https://apple.stackexchange.com/a/432227
 
+# Prefer local installations
+export PATH="$HOME/.local/bin:$PATH"
+
 # Homebrew
 # @see https://brew.sh
-eval "$(/opt/homebrew/bin/brew shellenv)"
+if [ -d "/opt/homebrew/bin" ]; then
+	eval "$(/opt/homebrew/bin/brew shellenv)"
+fi
 
 # nvm
 # @see https://github.com/nvm-sh/nvm
