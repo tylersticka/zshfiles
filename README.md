@@ -19,4 +19,5 @@ My simple [ZSH](http://www.zsh.org/) configuration. 🤓
 ## Resources
 
 - [macOS Terminal Theme: Snazzy](https://github.com/lysyi3m/macos-terminal-themes?tab=readme-ov-file#snazzy-download)
+- [0xProto: A programming font focused on source code legibility](https://github.com/0xType/0xProto)
 - [Moving to ZSH](https://scriptingosx.com/2019/06/moving-to-zsh/)
