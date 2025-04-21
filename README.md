@@ -16,25 +16,6 @@ My simple [ZSH](http://www.zsh.org/) configuration. 🤓
 1. Add `export ZDOTDIR=~/.zsh` to that file.
 1. Restart any open zsh sessions.
 
-## Troubleshooting
-
-### Missing Commands in VS Code (WSL)
-
-As of this writing, VS Code does not seem to source `.zprofile` except for login
-shells. This can be fixed in your user `settings.json`:
-
-```json
-{
-	"terminal.integrated.profiles.linux": {
-		"zsh (login)": {
-			"path": "/usr/bin/zsh",
-			"args": ["--login"]
-		},
-	},
-	"terminal.integrated.defaultProfile.linux": "zsh (login)"
-}
-```
-
 ## Resources
 
 - [macOS Terminal Theme: Snazzy](https://github.com/lysyi3m/macos-terminal-themes?tab=readme-ov-file#snazzy-download)
