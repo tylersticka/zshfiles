@@ -8,7 +8,7 @@ Used in macOS and WSL (Ubuntu).
 
 - [Node Version Manager](https://github.com/nvm-sh/nvm)
 - [Pure](https://github.com/sindresorhus/pure)
-- [Zoxide](https://github.com/ajeetdsouza/zoxide)
+- [zoxide](https://github.com/ajeetdsouza/zoxide)
 
 ## Installation
 
