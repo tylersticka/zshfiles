@@ -1,6 +1,6 @@
 # zshfiles
 
-My simple [ZSH](http://www.zsh.org/) configuration. 🤓
+My simple [zsh](http://www.zsh.org/) configuration. 🤓
 
 Used in macOS and WSL (Ubuntu).
 
@@ -26,4 +26,4 @@ Used in macOS and WSL (Ubuntu).
 
 ## Resources
 
-- [Moving to ZSH](https://scriptingosx.com/2019/06/moving-to-zsh/)
+- [Moving to zsh](https://scriptingosx.com/2019/06/moving-to-zsh/)
