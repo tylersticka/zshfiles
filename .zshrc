@@ -1,7 +1,7 @@
 # Prefer local installations
 export PATH="$HOME/.local/bin:$PATH"
 
-# Homebrew
+# Homebrew (macOS only)
 # @see https://brew.sh
 if [ -d "/opt/homebrew/bin" ]; then
 	eval "$(/opt/homebrew/bin/brew shellenv)"
