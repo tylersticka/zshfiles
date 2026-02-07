@@ -20,7 +20,7 @@ Used in macOS and WSL (Ubuntu).
 
 ## Optional Goodies
 
-- [0xProto: A programming font focused on source code legibility](https://github.com/0xType/0xProto)
+- [Maple Mono: Open source monospace font](https://font.subf.dev/en/) (Previously: [0xProto](https://github.com/0xType/0xProto))
 - [macOS Terminal Theme: Snazzy](https://github.com/lysyi3m/macos-terminal-themes?tab=readme-ov-file#snazzy-download)
 - [Windows Terminal Color Scheme: Snazzy](https://github.com/Richienb/windows-terminal-snazzy)
 
