@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This project has moved to Codeberg: https://codeberg.org/tylersticka/zshfiles
+
 # zshfiles
 
 My simple [zsh](http://www.zsh.org/) configuration. 🤓
